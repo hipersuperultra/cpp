@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hipersuperultra&#39;s cpp log</title>
-    <link>https://hipersuperultra.github.com/cpp/</link>
+    <link>https://hipersuperultra.github.io/cpp/</link>
     <description>Recent content on hipersuperultra&#39;s cpp log</description>
     <generator>Hugo - gohugo.io</generator>
     <language>en</language>
     <contact>OH MY DOG</contact>
-    <copyright>&copy; <a href="https://hipersuperultra.github.com">hipersuperultra</a> 2019</copyright>
+    <copyright>&copy; <a href="https://hipersuperultra.github.io">hipersuperultra</a> 2019</copyright>
     
-        <atom:link href="https://hipersuperultra.github.com/cpp/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://hipersuperultra.github.io/cpp/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
